@@ -1,2 +1,4 @@
 # Code-Forces
-Here I sloved Code Forces problems
+Here I solved Codeforces problems
+<br>
+Author - Abu Sams Araf
